@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Medi_Care
 {
-    public partial class HomePage : Form
+    public partial class Home : Form
     {
-        public HomePage()
+        public Home()
         {
             InitializeComponent();
         }
