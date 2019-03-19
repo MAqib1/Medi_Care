@@ -1,6 +1,6 @@
 ﻿namespace Medi_Care
 {
-    partial class Form1
+    partial class HomePage
     {
         /// <summary>
         /// Required designer variable.
@@ -52,14 +52,14 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Hello World";
             // 
-            // Form1
+            // HomePage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "HomePage";
             this.Text = "HomePage";
             this.ResumeLayout(false);
             this.PerformLayout();
